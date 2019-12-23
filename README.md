@@ -4,7 +4,7 @@ Expo Quiz App using face-detection. build on react-native.
 
 ## To get the source-code
 
-Please click on Clone or Download green button on the project repository.
+Please click on Clone or Download green button on the project repository. Click downloadZip.
 The project will download.
 
 ## To run the Project
